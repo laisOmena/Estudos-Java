@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ea20dec-0390-483d-8260-abd808237afd" name="Default Changelist" comment="" />
+    <list default="true" id="5b41c776-ff53-40bb-8d5e-ec4fc1447690" name="Default Changelist" comment="Criando classe de funcionarios autenticados.">
+      <change afterPath="$PROJECT_DIR$/../.idea/IdeaProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BasicoPOO/BasicoPOO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bytebank-herdado/src/Administrador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bytebank-herdado/src/FuncionarioAutenticavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LearningJava/LearningJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListaJava/ListaJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Maratona/Maratona.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Teste/Teste.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank-composto/.idea/bytebank-composto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank/bytebank.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank/java3-projeto-inicial.2/.idea/java3-projeto-inicial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank/java3-projeto-inicial.2/bytebank/bytebank.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bytebank/java3-projeto-inicial.2/bytebank/bytebank1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sintaxe-variaveis-e-fluxo/sintaxe-variaveis-e-fluxo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testeSDK/testeSDK.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bytebank-herdado/bin/Gerente.class" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado/bin/Gerente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bytebank-herdado/bin/SistemaInterno.class" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado/bin/SistemaInterno.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bytebank-herdado/bin/TesteSistemaInterno.class" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado/bin/TesteSistemaInterno.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bytebank-herdado/src/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado/src/Gerente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bytebank-herdado/src/SistemaInterno.java" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado/src/SistemaInterno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bytebank-herdado/src/TesteSistemaInterno.java" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado/src/TesteSistemaInterno.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +39,13 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1TI4gcAZcZu8ozK6SyIuY9jGCLT" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1TI9KYJM3OU5X4vlLg1K4JavTbO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
@@ -52,16 +81,31 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6ea20dec-0390-483d-8260-abd808237afd" name="Default Changelist" comment="" />
-      <created>1573134387038</created>
+      <changelist id="5b41c776-ff53-40bb-8d5e-ec4fc1447690" name="Default Changelist" comment="" />
+      <created>1573136678173</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1573134387038</updated>
-      <workItem from="1573134392281" duration="806000" />
+      <updated>1573136678173</updated>
+      <workItem from="1573136684757" duration="2419000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Criando classe de funcionarios autenticados." />
+    <option name="LAST_COMMIT_MESSAGE" value="Criando classe de funcionarios autenticados." />
   </component>
 </project>
